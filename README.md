@@ -1,5 +1,5 @@
 # thephotogrid
-for Yellow schools
+//for Yellow schools
 
 
 If you not able to see the images, the only resone can be the backend is hybernated 
@@ -14,7 +14,8 @@ If you not able to see the images, the only resone can be the backend is hyberna
 > Now you should able to see the page with infinate scroll images ( if not refresh the backend sanbox )
 
 
-Tip^ If you are viewing in Laptop/PC make your browser tab in potratate mode for a good look and feel
+#Tip 
+If you are viewing in Laptop/PC make your browser tab in potratate mode for a good look and feel
 
 
  
