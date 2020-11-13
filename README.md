@@ -4,7 +4,7 @@ for Yellow schools!
 
 If you not able to see the images, the only reason can be the backend might be hybernated.
 
-# recommended way to view the project
+## Recommended way to view the project
 > Open both the sanboxes FrontEnd and Backend
 
 
