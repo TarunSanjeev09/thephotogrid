@@ -14,8 +14,8 @@ If you not able to see the images, the only reason can be the backend might be h
 > Now you should able to see the page with infinate scroll images ( if not refresh the backend sanbox )
 
 
-## Tip 
-If you are viewing in Laptop/PC make your browser tab in potratate mode for a good look and feel
+### Tip 
+If you are viewing in Laptop/PC make your browser tab in potrait mode for a good look and feel
 
 
  
