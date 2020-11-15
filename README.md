@@ -25,7 +25,12 @@ If you are viewing in Laptop/PC make your browser tab in potrait mode for a good
 
 ### Images
 
-![alt text](https://github.com/TarunSanjeev09/thephotogrid/H1.jpg?raw=true)
+![Web View](https://github.com/TarunSanjeev09/thephotogrid/blob/main/h1.JPG?raw=true)
+
+![Web View](https://github.com/TarunSanjeev09/thephotogrid/blob/main/p1.JPG?raw=true)
+
+![Web View](https://github.com/TarunSanjeev09/thephotogrid/blob/main/p2.JPG?raw=true)
+
 
 
 
